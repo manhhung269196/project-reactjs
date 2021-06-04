@@ -1,10 +1,10 @@
 import { render } from "@testing-library/react";
 
-function ListUser()
+function ListTodo()
 {
     return(
-    <h1>List User</h1>
+    <h1>List Todo</h1>
     );
 
 }
-export default ListUser;
+export default ListTodo;

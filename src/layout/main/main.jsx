@@ -1,6 +1,7 @@
 import Header from '../partials/header/header'
 import './main.scss';
 function Main() {
+
   return (
     <div className="container">
       <div class="table-responsive">
@@ -27,4 +28,4 @@ function Main() {
   )
 }
 
-export default Main
+export default Main;
